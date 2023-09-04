@@ -1,0 +1,3 @@
+/Users/rus_mermaid/Desktop/Hard_Drive_SSD/Macbook_ProM1_2022/CP_projects/Uni_MSU_Code/4SeptemberL/cmake-build-debug/CMakeFiles/4SeptemberL.dir
+/Users/rus_mermaid/Desktop/Hard_Drive_SSD/Macbook_ProM1_2022/CP_projects/Uni_MSU_Code/4SeptemberL/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/rus_mermaid/Desktop/Hard_Drive_SSD/Macbook_ProM1_2022/CP_projects/Uni_MSU_Code/4SeptemberL/cmake-build-debug/CMakeFiles/rebuild_cache.dir
