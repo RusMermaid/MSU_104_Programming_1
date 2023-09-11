@@ -73,11 +73,22 @@ int main() {
     int result = RN(IN, &number);
     (result == 0) ? printf("\nЧисло считано: %lf\n", number) : printf("Ошибка чтения файла.\n");
 
-    int numbers[] = {42, 15, 7, 23, 56, 9, 31, -1};
+    int numbers[] = {99, 42, 15, 7, 23, -7, 99, 56, 9, 31, 99, 89, -1};
     int max = findMax(numbers);
     if (max != -1) {
         printf("Макс число: %d\n", max);
-    } else {
+    }
+    else
+    {
+        printf("Ошибка \n");
+    }
+    int cmax = countMax(numbers);
+
+    if (cmax != 0) {
+        printf("Кол-во повторов макс числа: %d\n", cmax);
+    }
+    else
+    {
         printf("Ошибка \n");
     }
 
